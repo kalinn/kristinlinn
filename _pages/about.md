@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm an Associate Professor of Biostatistics at the University of Pennsylvania and Associate Director of the PennSIVE Center, where I provide statistical leadership on a diverse portfolio of medical and public health research. My methodological work focuses on developing and applying statistical methods that facilitate precision medicine and improve health outcomes for patients. I have broad expertise in clinical trials but am primarily interested in designing Sequential Multiple Assignment Randomized Trials (SMARTs) to develop optimal sequences of interventions that adapt to each patient's trajectory of health outcomes and treatment responses over time. Currently, I'm involved with the design and analysis of several NIH- and VA-funded SMARTs. 
+
+I'm an affiliated faculty member in the Center for Health Incentives and Behavioral Economics and a Senior Fellow at the Leonard Davis Institute of Health Economics at Penn, where I collaborate on studies that compare the effectiveness of EHR Nudges, audit the fairness of medical risk and spending algorithms, and quantify the public health benefits of concentrated investments in some of the poorest Philadelphia communities. I'm also a collaborator in the Oathes Lab where we are leveraging Transcranial Magnetic Stimulation (TMS), interleaved with functional Magnetic Resonance Imaging (fMRI), to study causal connections between regions in the brain. Our findings will ultimately inform the development of more effective, personalized TMS protocols for treating depression.
+
+Prior to joining the faculty at Penn, I was a post-doctoral researcher in the PennSIVE lab. In Fall 2015, I took a 3 month leave from my post-doc at Penn to attend the Fall 1 batch of the Recurse Center. I used that time to become more familiar with Python and web application development. 
+
+I earned my Ph.D. in Statistics from North Carolina State University in 2014. My dissertation proposed novel estimators for optimal dynamic treatment regimes that target non-mean summaries (e.g., quantiles) of a patient outcome distribution. In addition, I developed estimators for optimal dynamic treatment regimes that balance tradeoffs between competing outcomes such as drug efficacy and side effect burden.  
+
+Before pursuing a career in statistics, I graduated from the University of Michigan with a degree in Euphonium Performance.
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -54,3 +65,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

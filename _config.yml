@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Kristin A. Linn, Ph.D."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "headshot.png"
-  name             : "Kristin Linn"
+  name             : "Kristin A. Linn, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor of Biostatistics"
   location         : "Philadelphia, PA"
