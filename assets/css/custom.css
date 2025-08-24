@@ -1,0 +1,21 @@
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between; /* title/logo left, nav right */
+  align-items: center;            /* vertical centering */
+}
+
+.masthead__menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Increase sidebar width */
+.sidebar {
+  width: 300px;   /* default is ~220px, adjust as needed */
+}
+
+/* Shift content over so it doesn't overlap */
+.page__content {
+  margin-left: 320px;  /* sidebar width + a bit of padding */
+}
+
