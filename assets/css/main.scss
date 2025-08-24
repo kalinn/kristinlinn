@@ -41,3 +41,46 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+@media (min-width: 1024px) {  
+  .sidebar {
+    width: 240px !important;        
+    max-width: 240px !important;    
+    padding-right: 20px !important;              
+  }
+
+  .page__title {
+    margin-left: 80px !important;  
+  }
+
+  .page__content {
+    margin-left: 80px !important;  
+  }
+
+  /*
+  .archive__content {
+    margin-left: 100px !important;  
+  }
+
+  .archive {
+    margin-left: 100px !important;  
+  }
+
+  .cv-layout {
+    margin-left: 100px !important;  
+  }
+
+  #sidebar {
+    width: 300px !important;
+  }
+
+  #main {
+    margin-left: 100px !important;
+  }
+
+  #archive {
+    margin-left: 100px !important;
+  }
+*/
+}

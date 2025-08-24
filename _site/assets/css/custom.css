@@ -1,21 +1,46 @@
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between; /* title/logo left, nav right */
-  align-items: center;            /* vertical centering */
-}
+/* --- Widen left-hand sidebar and adjust main content --- 
+@media (min-width: 1024px) {  
+  .sidebar {
+    width: 300px !important;        
+    max-width: 300px !important;    
+    padding-right: 20px;            
+  }
 
-.masthead__menu {
-  display: flex;
-  justify-content: flex-end;
-}
+  .masthead__inner-wrap {
 
-/* Increase sidebar width */
-.sidebar {
-  width: 300px;   /* default is ~220px, adjust as needed */
-}
+  }
 
-/* Shift content over so it doesn't overlap */
-.page__content {
-  margin-left: 320px;  /* sidebar width + a bit of padding */
-}
+  .page__title {
+    margin-left: 100px !important;  
+  }
 
+  .page__content {
+    margin-left: 100px !important;  
+  }
+
+  .archive__content {
+    margin-left: 100px !important;  
+  }
+
+  .archive {
+    margin-left: 100px !important;  
+  }
+
+  .cv-layout {
+    margin-left: 100px !important;  
+  }
+
+  #sidebar {
+    width: 300px !important;
+  }
+
+  #main {
+    margin-left: 100px !important;
+  }
+
+  #archive {
+    margin-left: 100px !important;
+  }
+
+}
+*/  

@@ -173,6 +173,10 @@
    ========================================================================== */
 
 .greedy-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;  
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kristin A. Linn, Ph.D."
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Kristin A. Linn, Ph.D."
 description              : &description "personal website"
