@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/Linn_CV.pdf" target="_blank">Download CV</a>
+<a href="https://kalinn.github.io/kristinlinn//cv/files/Linn_CV.pdf" target="_blank">Download CV</a>
