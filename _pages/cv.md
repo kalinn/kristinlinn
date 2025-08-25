@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<!--
 {% include base_path %}
+-->
 
-<a href="files/Linn_CV.pdf" target="_blank">Download CV</a>
+<a href="https://kalinn.github.io/kristinlinn//cv/files/Linn_CV.pdf" target="_blank">Download CV</a>
